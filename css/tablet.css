@@ -1,0 +1,109 @@
+.filtres-one {
+    margin-right: 30px;
+    margin-top: 20px;
+    display: flex;
+}
+
+.heberg-all {
+    flex-direction: column;
+}
+
+.heberg-marseille {
+    width: 100%;
+    padding-bottom: 40px;
+}
+
+
+.heberg-pop {
+    width: 100%;
+    margin-top: 40px;
+    margin-left: auto;
+}
+
+.heberg-pop-stars ul {
+    display: flex;
+
+    list-style: none;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.activites {
+    flex-wrap: wrap;
+    justify-content: center;
+    height :auto;
+}
+
+
+.activites-col-one-top {
+    height: 72%;
+    width: 100%;
+}
+
+.activites-back {
+    height: 28%;
+    width: 100%;
+}
+
+
+.image-activites-vert {
+    width: 100%;
+    height: 100%;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+
+}
+
+.image-activites-horiz {
+    width: 100%;
+    height: 100%;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+
+}
+
+.activites-col-one{
+    width: 85%;
+    height: 200px;
+    margin-top: 30px;
+}
+.activites-col-two-1,.activites-col-two-2, .activites-col-two-3, .activites-col-two-4 {
+    width: 44%;
+    height: 200px;
+    margin-top: 30px;
+}
+
+.activites-col-two {
+    width: 85%;
+    display: flex;
+    justify-content: space-between;
+    flex-flow:row;
+    height: auto;
+}
+
+.activites-col-two-1-top, .activites-col-two-2-top, .activites-col-two-3-top, .activites-col-two-4-top {
+    height: 72%;
+    width: 100%;
+}
+
+.footer {
+    justify-content: space-between;
+    overflow-wrap: break-word;
+    bottom: 0;
+}
+
+.footer li {
+    margin-top: 10px;
+}
+
+.a-propos {
+    margin-left: 50px;
+}
+
+.assistance {
+    margin-right: 50px;
+}
+
+.footer-box {
+    width: 22%;
+}
